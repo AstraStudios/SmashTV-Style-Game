@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "ArcadePrairieKingClone.sln"
+    "dotnet.defaultSolution": "SmashTV-Style-Game.sln"
 }
